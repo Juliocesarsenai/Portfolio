@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+    font-family: "Opens Sans", sans-serif;
+}
+
+h2{
+    font-size:2rem;
+    font-weight: 600;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+body {
+    background-color: #000;
+    color:#fff;
+}
+.main {
+    padding: 1rem;
+    min-height:100vh;
+    border: 1px solid #fff;
+    border-radius: 2rem;
+
+}
+
+.menu-spacing{
+    margin-bottom: 8rem;
+}
+
+@font-face {
+    font-family: "Neue Machina";
+    src: url('./components/fonts/neue-machina-regular.otf');
+}
+
+.main::after {
+    content: '';
+    background-image: url('/components/img/background.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    position:fixed;
+    top:0;
+    left:0;
+    width: 80vw;
+    height: 60vh;
+    z-index: -1;
+    
+
+}
+
+.main::before {
+    content: '';
+    background-image: url('/components/img/background.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 60vw;
+    height: 80vh;
+    z-index: -1;
+    transform: rotate(180deg);
+}
+
+@media only screen and (min-width: 768px) {
+    .main {
+        max-width: 1024px;
+        margin: 1rem auto;
+    }
+
+
+    .main::before,
+    .main::after {
+
+        width:70vw;
+    
+    }
+    .main::after {
+        width:70vw;
+        
+    }   
+}
