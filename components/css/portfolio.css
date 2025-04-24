@@ -37,7 +37,7 @@
   background-size: contain;
   background-repeat: no-repeat;
   margin-right: 0.5rem;
-  background-image: url("../components/img/icons/github.svg");
+  background-image: url("../img/icons/github.svg");
 }
 
 .portfolio li a {

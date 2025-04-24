@@ -25,12 +25,12 @@ body {
 
 @font-face {
   font-family: "Neue Machina";
-  src: url("../components/fonts/neue-machina-regular.otf");
+  src: url("../fonts/neue-machina-regular.otf");
 }
 
 .main::after {
   content: "";
-  background-image: url("../components/img/background.svg");
+  background-image: url("../img/background.svg");
   background-repeat: no-repeat;
   background-size: contain;
   display: inline-block;
@@ -44,7 +44,7 @@ body {
 
 .main::before {
   content: "";
-  background-image: url("../components/img/background.svg");
+  background-image: url("../img/background.svg");
   background-repeat: no-repeat;
   background-size: contain;
   display: inline-block;
