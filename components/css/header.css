@@ -58,19 +58,19 @@
 }
 
 .information .local::before {
-  background-image: url("/components/img/icons/local.svg");
+  background-image: url("../components/img/icons/local.svg");
 }
 
 .information .perfil::before {
-  background-image: url("/components/img/icons/perfil.svg");
+  background-image: url("../components/img/icons/perfil.svg");
 }
 
 .information .numero::before {
-  background-image: url("/components/img/icons/numero.svg");
+  background-image: url("../components/img/icons/numero.svg");
 }
 
 .information .email::before {
-  background-image: url("/components/img/icons/email.svg");
+  background-image: url("../components/img/icons/email.svg");
 }
 
 @media only screen and (min-width: 768px) {

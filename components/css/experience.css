@@ -29,5 +29,5 @@
   background-size: contain;
   background-repeat: no-repeat;
   margin-right: 0.5rem;
-  background-image: url("/components/img/icons/period.svg");
+  background-image: url("../components/img/icons/period.svg");
 }
