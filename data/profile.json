@@ -9,44 +9,43 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/refs/heads/main/Portf%C3%B3lio/data/images/html.png"
+        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/imagens/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/refs/heads/main/Portf%C3%B3lio/data/images/css.png"
+        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/imagens/css.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/refs/heads/main/Portf%C3%B3lio/data/images/js.png"
+        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/imagens/js.png"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/refs/heads/main/Portf%C3%B3lio/data/images/java.png"
+        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/imagens/java.png"
       },
       {
         "name": "Github",
-        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/refs/heads/main/Portf%C3%B3lio/data/images/github.png"
+        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/imagens/github.png"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/refs/heads/main/Portf%C3%B3lio/data/images/python.png"
+        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/imagens/python.png"
       }
     ],
-    
     "softSkills": [
       "Inteligência Emocional",
       "Facilidade em comunicação",
       "Proatividade",
       "Trabalho em Equipe",
       "Rápido Aprendizado"
-    
-      ]},
-
+    ],
     "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (Básico)"
-],"portfolio": [
+      "Português BR",
+      "Inglês (intermediário)",
+      "Espanhol (Básico)"
+    ]
+  },
+  "portfolio": [
     {
       "name": "1ª Projeto",
       "url": "https://github.com/Juliocesarsenai/Landing_Page",
@@ -58,23 +57,26 @@
       "url": "https://github.com/Juliocesarsenai/CocaCola",
       "link": "Coca Cola",
       "github": true
-      
-      }, {
-        "name": "3ª Projeto",
-        "url": "https://github.com/Juliocesarsenai/Atividade_Pontuada_JavaSpringBoot",
-        "link": "Java Spring Boot",
-        "github": true
-    },{
+    },
+    {
+      "name": "3ª Projeto",
+      "url": "https://github.com/Juliocesarsenai/Atividade_Pontuada_JavaSpringBoot",
+      "link": "Java Spring Boot",
+      "github": true
+    },
+    {
       "name": "4ª Projeto",
       "url": "https://github.com/Juliocesarsenai/Banco_de_Dados_Python",
       "link": "Banco de Dados com Python",
       "github": true
-    },{
+    },
+    {
       "name": "5ª Projeto",
       "url": "https://github.com/Juliocesarsenai/Tela-de-Login",
       "link": "Tela de Login",
       "github": true
-    },{
+    },
+    {
       "name": "6ª Projeto",
       "url": "https://github.com/Juliocesarsenai/Pokedex",
       "link": "Pokedex",
@@ -92,8 +94,5 @@
       "period": "Abril 2025 - Maio 2025",
       "description": "Eu fiz um curso da plataforma Dio que ensina os conceitos mais importantes de JavaScript, por meio desse curso, aprendi Lógica de Programação, programação orientada a Objetos, conceitos avançados de JavaScript e por meio dos conhecimentos obtidos no curso, eu fiz o meu portfólio com a ajuda do professor."
     }
-   
-    
   ]
 }
-
