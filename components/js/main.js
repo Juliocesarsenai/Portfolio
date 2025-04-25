@@ -5,6 +5,9 @@ function updateProfileInfo(profileData) {
   const perfil = document.getElementById("profile-job");
   perfil.innerText = profileData.job;
 
+  const location = document.getElementById("profile-local");
+  location.innerText = profileData.location;
+
   const phone = document.getElementById("profile-phone");
   phone.innerText = profileData.phone;
   phone.href = `tel:${profileData.phone}`;
