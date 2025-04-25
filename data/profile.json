@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/imagens/html.png"
+        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/imagens/css.png"
+        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/css.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/imagens/js.png"
+        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/js.png"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/imagens/java.png"
+        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/java.png"
       },
       {
         "name": "Github",
-        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/imagens/github.png"
+        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/github.png"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/imagens/python.png"
+        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/python.png"
       }
     ],
     "softSkills": [
@@ -38,13 +38,9 @@
       "Proatividade",
       "Trabalho em Equipe",
       "Rápido Aprendizado"
-    ],
-    "languages": [
-      "Português BR",
-      "Inglês (intermediário)",
-      "Espanhol (Básico)"
     ]
   },
+  "languages": ["Português BR", "Inglês (intermediário)", "Espanhol (Básico)"],
   "portfolio": [
     {
       "name": "1ª Projeto",

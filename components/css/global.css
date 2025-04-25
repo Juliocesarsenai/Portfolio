@@ -24,8 +24,9 @@ body {
 }
 
 @font-face {
-  font-family: "Neue Machina";
-  src: url("../fonts/neue-machina-regular.otf");
+  font-family: 'Neue Machina';
+  src: url('../fonts/neue-machina-regular.otf') format('opentype');
+  
 }
 
 .main::after {
