@@ -62,6 +62,7 @@ body {
   .main {
     max-width: 1024px;
     margin: 1rem auto;
+    
   }
 
   .main::before,
