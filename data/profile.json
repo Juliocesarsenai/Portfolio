@@ -20,6 +20,11 @@
         "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/js.png"
       },
       {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/react.png"
+      }
+    ,
+      {
         "name": "Java",
         "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/java.png"
       },
@@ -30,10 +35,6 @@
       {
         "name": "Python",
         "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/python.png"
-      }
-      ,{
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/react.png"
       }
     ],
     "softSkills": [
