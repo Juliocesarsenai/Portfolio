@@ -31,6 +31,10 @@
         "name": "Python",
         "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/python.png"
       }
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/react.png"
+      }
     ],
     "softSkills": [
       "Inteligência Emocional",
