@@ -30,8 +30,14 @@
       },
       {
      
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/python.png"
+      },
+
+      {
         "name": "Github",
-        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/github.png"
+        "logo":"https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/githubb.png"
+
       }
     ],
     "softSkills": [
