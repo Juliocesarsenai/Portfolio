@@ -29,12 +29,9 @@
         "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/java.png"
       },
       {
+     
         "name": "Github",
         "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/github.png"
-      },
-      {
-        "name": "Python",
-        "logo": "https://raw.githubusercontent.com/Juliocesarsenai/Portfolio/main/data/images/python.png"
       }
     ],
     "softSkills": [
